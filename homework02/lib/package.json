@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-addr-generator",
+  "version": "1.0.0",
+  "description": "Generating ethereum pseudo addresses",
+  "main": "index.js",
+  "keywords": [],
+  "author": {
+    "name": "Eliseev Vladimir",
+    "email": "yvv4recon@gmail.com"
+  },
+  "license": "ISC"
+}
